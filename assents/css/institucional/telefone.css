@@ -1,0 +1,8 @@
+.institucional__telefone {
+    padding-bottom:  2rem;
+}
+
+.telefone__link {
+    text-decoration: none;
+    color: var(--preto);
+}

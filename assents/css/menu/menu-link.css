@@ -1,0 +1,13 @@
+.menu__link {
+    padding-right: 2rem;
+    font-size: 0.9rem;
+    color: var(--branco);
+    text-decoration: none; 
+    font-family: var( --montserrat);  
+}
+
+.menu__link:hover {
+    color: var(--Laranja);
+    text-decoration: underline 1px; 
+} 
+

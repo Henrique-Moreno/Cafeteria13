@@ -1,0 +1,25 @@
+.rodape {
+    height: 10rem;
+    margin-top: 3rem;
+    font-family: var(--montserrat);
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    box-shadow: 10px 5px 10px 5px var(--preto);
+}
+
+.titulo__rodape {
+    font-size: 1.3rem;
+    text-transform: uppercase;
+    padding-top:  2rem;   
+}
+
+.link__rodape {
+    padding-right: 0.4rem;
+}
+
+.rodape__imagem {
+    padding-top: 1rem;
+    
+}
+

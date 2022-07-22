@@ -1,0 +1,12 @@
+.menu__titulo {
+    color: var(--branco);
+    font-family: var(--Rubik); 
+    font-size: 2.5rem;
+    font-weight: 600;   
+    text-decoration: none;
+}
+
+.menu__titulo::after{
+    content: "13";
+    color: var(--Laranja);
+}

@@ -1,0 +1,16 @@
+:root {
+    --Laranja: #F29A2E;
+    --marrom: #73412F;
+    --branco: #F2F2F2;
+    --cinza: #A6A6A6;
+    --preto: #0D0D0D;
+
+    --carterOne: 'Carter One', cursiv
+    --openSans: 'Open Sans', sans-serif;
+    --montserrat: 'Montserrat', sans-serif;
+    --Rubik: 'Rubik Moonrocks', cursive;
+}
+
+body {
+    background-color: var(--branco);
+}

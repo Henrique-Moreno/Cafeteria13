@@ -1,0 +1,10 @@
+.cabecalhoPrinciapl .container {
+    align-items: center;
+    background: var(--preto);
+    display: flex;
+    height: 20vh;
+    justify-content: space-evenly;
+}
+
+
+

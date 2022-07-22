@@ -1,0 +1,17 @@
+.menu__botao__link {
+    border-radius: 2px;
+    padding: 10px 25px;
+    background: var(--Laranja);
+}
+
+.menu__botao__link {
+    color: var(--preto);
+    font-family: var(--montserrat);
+    font-size: 1.1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+.menu__botao__link:hover {
+    background: var(--branco);
+}

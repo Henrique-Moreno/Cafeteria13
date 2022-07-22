@@ -1,0 +1,16 @@
+.link__produtos {
+    text-decoration: none;
+    font-size: 1.1rem;
+    display: block;
+    text-align: center;
+    border: 1px solid var(--preto);
+    padding: .7rem 1rem;
+    color: var(--preto); 
+    width: 21%;
+    margin-left: 10rem;
+    border-radius: 4px;
+}
+
+.link__produtos:hover {
+    background:  var(--marrom);
+}

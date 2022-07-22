@@ -1,0 +1,9 @@
+.cafeteria__banner {
+  display: flex;
+  justify-content: center;
+}
+
+.imagem__banner {
+  box-shadow: 5px 2px 5px 5px var(--preto);
+  width: 100%;
+}
