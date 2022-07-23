@@ -1,1 +1,1 @@
-alert("Esse projeto foi pensando para desktop.");
+alert("Esse projeto foi planejado para desktop.");
