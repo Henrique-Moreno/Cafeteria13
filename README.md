@@ -16,3 +16,15 @@ Projeto Cafeteria13 finalizado! Esse projeto foi pensando para desktop, ao acess
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </div>
+  
+  <h2>Como executar o projeto</h2>
+  
+  <p>Para executar o projeto em sua máquina, siga estas etapas:</p>
+  
+  <p>1 Faça o download do código-fonte do projeto em formato ZIP ou clone o repositório usando o Git.</p>
+  
+  <p>Extraia o arquivo ZIP (se você fez o download) ou abra o terminal e navegue até o diretório onde deseja clonar o repositório, em seguida, digite o seguinte comando    para clonar o repositório:</p>
+  
+   <p>git clone https://github.com/Henrique-Moreno/Cafeteria13.git</p>
+    
+   <p>Pronto! Caso precise de ajuda ou tenha alguma dúvida, sinta-se à vontade para entrar em contato.
